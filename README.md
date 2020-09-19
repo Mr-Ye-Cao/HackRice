@@ -1,3 +1,3 @@
 # HackRice
 HackRice First-Timer
-### Brainstorm 
+### Project: LGBTQ Mentor & Mentee Platform
