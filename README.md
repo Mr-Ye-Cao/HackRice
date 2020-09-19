@@ -1,0 +1,2 @@
+# HackRice
+HackRice First-Timer
