@@ -1,6 +1,6 @@
-# HackRice
-HackRice First-Timer
-### Project: EMBRACE(LGBTQ Mentor & Mentee Platform)
+# Project EMBRACE for HackRice 2020 First-timer track
+
+### Platform Mission: LGBTQ Mentor & Mentee Platform
 
 Why EMBRACE?
 
