@@ -9,7 +9,7 @@
 </head>
 <body>
 <div class="Container fluid">
-    <nav class="navbar navbar-expand-lg navbar-dark fixed-top" style="background-color: #17a2b8;">
+    <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #17a2b8;">
         <a class="navbar-brand" style="color: black; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;" href="#">
         <b style="color:red;">E</b>
         <b style="color: orange;">M</b>
