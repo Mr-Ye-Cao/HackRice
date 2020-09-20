@@ -33,4 +33,13 @@ Tech & Framworks used:
 
 See Files: chatMentor.php, chatStudent.php, write.html etc.
 
-#### 3. Mentor & Mentee Matching Algorithm 
+#### 3. Mentor & Mentee Matching+Supervision Algorithm 
+Overview: One of the platform's key function is pairing individual mentee with the mentor most suitable to give him/her advice.  
+The matching degree is based off the similarity of the mentor and mentee in certain aspects.  
+Also,
+
+Tech & Framworks used:
+1. **PHP** to build self-design algorithm that optimizes the pairing to minimize the cost function of absolute value differences.
+
+See Files: chatMentor.php, chatStudent.php, write.html etc.
+
