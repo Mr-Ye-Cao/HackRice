@@ -93,11 +93,10 @@ h6 {
   height: auto;
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background-color: antiquewhite;
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/back.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
-  opacity: 0.5;
 }
 
 .masthead h1 {
@@ -214,7 +213,7 @@ h6 {
 
 .callout {
   padding: 15rem 0;
-  background-color: antiquewhite;
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/bg-callout.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;

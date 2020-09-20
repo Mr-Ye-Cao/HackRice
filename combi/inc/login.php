@@ -28,8 +28,10 @@
 
 			if($ism){
 				header("Location: ../success/mentor.php");
+				$_SESSION['isM'] = True;
 			}else{
 				header("Location: ../success/student.php");
+				$_SESSION['isM'] = False;
 			}
 		}else{
 			header("Location: ../registers/login.php");

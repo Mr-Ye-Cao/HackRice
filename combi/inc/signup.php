@@ -40,6 +40,7 @@ if (isset($_POST['submit'])) {
 			session_start();
 			$_SESSION['LoggedIn'] = True;
 			$_SESSION['commentor'] = $na;
+			$_SESSION['isM'] = False;
 
 
 			$sql = "SELECT * FROM stu WHERE menm='".$mtnm."';";

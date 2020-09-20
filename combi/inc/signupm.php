@@ -17,6 +17,7 @@ if (isset($_POST['submit'])) {
 	if ($conn->query($sql) === TRUE) {
 			session_start();
 			$_SESSION['LoggedIn'] = True;
+			$_SESSION['isM'] = True;
 			$_SESSION['commentor'] = $na;
 
 			$sql = "SELECT * FROM mn WHERE name = '${na}' and pass = '${pa}';";
