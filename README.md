@@ -15,9 +15,14 @@ Overview: Both mentors and mentees are required to complete their profiles throu
 The sign-up process includes answering a set of specially designed diagonistic questions and common questions like username and passwords.  
 
 Tech & Framworks used: 
-1. PHP with Validation Library to confirm form submission
-2. MySql to store account information
-3. HTML, CSS, JavaScript to build form 
+1. **PHP** with Validation Library to confirm form submission
+2. **MySql** to store account information
+3. **HTML, CSS, JavaScript with BootStrap** framwork to build form and handle various types of inputs
+
+See Files: login.php, signup.php, signupm.php (Sign-up page for mentor)
 
 #### 2. Chatting, story submission, and user profile system
+Overview: After the mentor and mentee are paired by algorithm, the mentor will provide guidance for the mentee through our online platform. 
+The mentor will also provides insights by inputing and submitting their personal stories in 
+
 #### 3. Mentor & Mentee Matching Algorithm 
