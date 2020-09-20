@@ -22,7 +22,13 @@ Tech & Framworks used:
 See Files: login.php, signup.php, signupm.php (Sign-up page for mentor)
 
 #### 2. Chatting, story submission, and user profile system
-Overview: After the mentor and mentee are paired by algorithm, the mentor will provide guidance for the mentee through our online platform. 
-The mentor will also provides insights by inputing and submitting their personal stories in 
+Overview: After the mentor and mentee are paired by algorithm, the mentor will provide guidance for  
+the mentee through our online platform and he/she will have access to the profile of the mentee. 
+The mentor will also provides insights by inputing and submitting their personal stories in our website.
+
+Tech & Framworks used:
+1. **PHP** with **explode()** method to conduct text classfication when storing inputs from the frontend.
+2. **MySql** to store story and chatting data. 4 Tables in total are used to implement the function.
+3. **HTML, CSS, JavaScript with BootStrap** framwork to build original styles and interaction script. 80% Freshly self made. **We're not like those teams out there that only crtl+v templates**
 
 #### 3. Mentor & Mentee Matching Algorithm 
