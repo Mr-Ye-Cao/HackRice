@@ -44,7 +44,7 @@
 								</div>
 
 								<div class="dropdown" style="margin-bottom: 0.43cm;">
-									  <button class="btn btn-secondary dropdown-toggle" type="button"  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" name="qtwo">
+									  <button class="btn btn-secondary dropdown-toggle" type="button"  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 									  	Does your family know that you are LGBTQ?
 									  </button>
 									  <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
@@ -56,7 +56,7 @@
 
 		
 								<div class="dropdown" style="margin-bottom: 0.43cm;">
-									 <button class="btn btn-secondary dropdown-toggle" type="button"  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" name="qthree">
+									 <button class="btn btn-secondary dropdown-toggle" type="button"  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 									  Have you previously had sexual eductation?
 									 </button>
 									 <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
@@ -66,7 +66,7 @@
 								</div>
 
 								<div class="dropdown" style="margin-bottom: 0.43cm;">
-									 <button class="btn btn-secondary dropdown-toggle" type="button"  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" name="qfour">
+									 <button class="btn btn-secondary dropdown-toggle" type="button"  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 									  What's your ethnicity?
 									 </button>
 									 <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
@@ -79,7 +79,7 @@
 								</div>
 
 								<div class="dropdown" style="margin-bottom: 0.43cm;">
-									 <button class="btn btn-secondary dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" name="qfive">
+									 <button class="btn btn-secondary dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 									 	Do you have anyone supports you?
 									 </button>
 									 <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
@@ -89,7 +89,7 @@
 								</div>
 
 								<div class="dropdown" style="margin-bottom: 0.43cm;">
-									 <button class="btn btn-secondary dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" name="qsix">
+									 <button class="btn btn-secondary dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 									 	Have you considered about coming out?
 									 </button>
 									 <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
