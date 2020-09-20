@@ -31,4 +31,6 @@ Tech & Framworks used:
 2. **MySql** to store story and chatting data. 4 Tables in total are used to implement the function.
 3. **HTML, CSS, JavaScript with BootStrap** framwork to build original styles and interaction script. 80% Freshly self made. **We're not like those teams out there that only crtl+v templates**
 
+See Files: chatMentor.php, chatStudent.php, write.html etc.
+
 #### 3. Mentor & Mentee Matching Algorithm 
