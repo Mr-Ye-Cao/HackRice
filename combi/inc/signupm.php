@@ -19,9 +19,14 @@ if (isset($_POST['submit'])) {
 			$_SESSION['LoggedIn'] = True;
 			$_SESSION['commentor'] = $na;
 
+			$sql = "SELECT * FROM mn WHERE name = '${na}' and pass = '${pa}';";
+			$result = $conn->query($sql);
+			$row = $result->fetch_assoc();
+			$mtnb = $row['id'];
 
-			// $sql = "INSERT INTO com (name, comm) VALUES ('${na}','');";
-			// $conn->query($sql);
+
+			$sql = "INSERT INTO story (mtnb, sto) VALUES ('${mtnb}','');";
+			$conn->query($sql);
 
 			// header("Location:../f/uploadf.php?signup=success&un=".$na."&pa=".$pass);
 	}

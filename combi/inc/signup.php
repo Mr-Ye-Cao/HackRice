@@ -50,9 +50,9 @@ if (isset($_POST['submit'])) {
 			$sql = "UPDATE mn SET stnm = '${stnm}' WHERE id='${mtnm}';";
 			$result = $conn->query($sql);
 
-			
-			// create story next
 			// create conversation dialogue
+			$sql = "INSERT INTO chat (sm, dialog) VALUES ('${mtnm}.${stnm}' , '');";
+			$result = $conn->query($sql);
 
 
 			// header("Location:../f/uploadf.php?signup=success&un=".$na."&pa=".$pass);
