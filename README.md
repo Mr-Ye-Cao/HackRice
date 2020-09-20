@@ -40,6 +40,8 @@ Also,
 
 Tech & Framworks used:
 1. **PHP** to build self-design algorithm that optimizes the pairing to minimize the cost function of absolute value differences.
+2. Future plan: Used text
 
-See Files: chatMentor.php, chatStudent.php, write.html etc.
+
+See Files: Signup.php (The algorithm is implemented during the course of signing up)
 
